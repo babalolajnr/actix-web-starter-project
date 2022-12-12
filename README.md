@@ -1,0 +1,1 @@
+This is a starter project for Actix web applications for my own personal use. You can use it if you want, but I make no guarantees that it will work for you. I'm not even sure it will work for me.😂
